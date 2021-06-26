@@ -1,0 +1,66 @@
+
+
+#loginbox {
+  width: 480px;
+  margin: 0 auto;
+  margin-top: 5rem;
+  background-color: #e8f0f2;
+  padding: 1rem;
+ 
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.input-group {
+  border-radius: 2rem;
+}
+
+.form-control:active {
+  box-shadow: none;
+}
+.btn,.buttons.btn {
+  width: 100%;
+  margin-bottom: 0.75rem;
+}
+.btn.signin:hover {
+  color: #fff;
+}
+.signin {
+  background-color: #1eae98;
+  color: #fff;
+}
+
+.errors-msg {
+  font-family: Montserrat, sans-serif !important;
+   visibility: hidden;
+}
+
+label {
+  margin: 0.2rem;
+}
+
+.btn-link {
+  color: #1eae98;
+  text-decoration: none;
+  box-shadow: none;
+}
+.btn-link:hover {
+  color: #1eae98;
+}
+
+.buttons{
+   margin: 0 auto;
+    text-align: center;
+}
+
+.btn-white {
+  box-shadow: 1px 1px 4px;
+  color: #333!;
+}
+
+.fab{
+    margin-right: 0.5rem;
+}
+
